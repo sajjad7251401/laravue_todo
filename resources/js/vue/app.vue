@@ -1,5 +1,5 @@
 <template>
-    <div id="app">Hello Vue</div>
+  <div>This will be pre-compiled</div>
 </template>
 
 <script>
